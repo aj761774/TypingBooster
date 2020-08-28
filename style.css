@@ -29,7 +29,7 @@ padding:1rem;
   background-color: #036;
 }
 #time-section,#score-section{
-  font-size: 30px;
+  font-size: 25px;
   margin: 1rem;
 }
 
@@ -104,14 +104,4 @@ input:focus{
 }
 button:focus{
   outline: none;
-}
-footer{
-  background-color: orange;
-  font-weight: bolder;
-  padding:1rem;
-  color: white;
-  position: absolute;
-  text-align: center;
-  width: 96.5%;
-  bottom: 0;
 }
